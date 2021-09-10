@@ -3,4 +3,4 @@ sunburst
 
 A clojurescript sunburst chart library.
 
-V2
+V2.1
